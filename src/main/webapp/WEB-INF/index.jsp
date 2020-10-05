@@ -14,7 +14,8 @@
 <body>
     <div class="container">
         <div class="jumbotron">  
-        <div class="col-6 mx-auto text-center bg-light">      
+        <div class="col-6 mx-auto text-center bg-light">  
+        <div class="alert alert-light">Page views: ${pageViews}</div>    
 		    <h1>Display Date/Time</h1>
 		    <button></button>
 		    <p>Choose to see ...</p>
